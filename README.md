@@ -67,12 +67,12 @@ This project aims to predict credit card default risk using the UCI "Default of 
 
 ---
 
-## 📂 Repository Structure
+'''## 📂 Repository Structure
 ├── data/ # Raw dataset
 ├── notebooks/ # Colab notebooks for EDA & Modeling
 ├── images/ # Plots & visualizations
 ├── report.pdf # Final project report
-└── README.md # This file
+└── README.md # This file'''
 
 ---
 
