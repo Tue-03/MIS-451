@@ -67,14 +67,5 @@ This project aims to predict credit card default risk using the UCI "Default of 
 
 ---
 
-'''## 📂 Repository Structure
-├── data/ # Raw dataset
-├── notebooks/ # Colab notebooks for EDA & Modeling
-├── images/ # Plots & visualizations
-├── report.pdf # Final project report
-└── README.md # This file'''
-
----
-
 ## 📚 References
 - UCI ML Repository: [Default of Credit Card Clients](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
